@@ -1,3 +1,5 @@
+GETTING AND CLEANING DATA PROJECT CODEBOOK
+
 This file describes the variables used in run_analysis.R, the data is obtained from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 1. The run_analysis.R script performs the following steps to clean the data:
